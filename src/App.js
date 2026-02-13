@@ -9,87 +9,87 @@ export default function ValentineGallery() {
   const memories = [
     {
       id: 1,
-      image: 'https://photos.app.goo.gl/swXbhmr92TSs3DAZ6',
+      image: '../public/images/1.jpg',
       title: 'Ta première anniversaire avec moi',
       date: 'Novembre 2021',
       caption: 'Là où tout a commencé...',
     },
     {
       id: 2,
-      image: 'https://photos.app.goo.gl/rg5m81W5K4JpTFyP8',
+      image: '../public/images/2.jpg',
       title: 'La première je t\'aime que j\'ai reçu de ta part',
       date: 'Novembre 2021',
       caption: 'Là où notre vie a commencé ensemble... je ne pourrais jamais l\'oublié la palpitation que j\'ai ressenti ce jours là',
     },
     {
       id: 3,
-      image: 'https://photos.app.goo.gl/BwFiV6EGtPcR5Kkx6',
+      image: '../public/images/3.jpg',
       title: 'Une épreuve très dure',
       date: '21 février 2022',
       caption: 'Je ne sais pas toi mais quand je vois cette photo, toutes les mauvaises choses que je t\'ai fait me revienne, mais tu es encore là, et je tiens beaucoup à te remercier.',
     },
     {
       id: 4,
-      image: 'https://photos.app.goo.gl/tDJEnwqggABbvivz7',
+      image: '../public/images/4.JPG',
       title: 'Notre premiere photo ensemble',
       date: '6 Avril 2023',
       caption: 'C\'est drôle mais c\'est vrai, c\'est notre première photo ensemble',
     },
     {
       id: 5,
-      image: 'https://photos.app.goo.gl/JNweu2Mu4dFtYWkL7',
+      image: '../public/images/5.JPG',
       title: 'première feux d\'artifices',
       date: '25 juin 2023',
       caption: 'Notre permière fête de l\'indépendence ensemble, ça m\'a beaucoup marqué.',
     },
     {
       id: 6,
-      image: 'https://photos.app.goo.gl/6tXbxbTN7kFEkHMN6',
+      image: '../public/images/6.jpg',
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
     },
     {
       id: 7,
-      image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
-      title: 'La veille d\'une nouvelle aventure',
-      date: 'Septembre 2023',
-      caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
+      image: '../public/images/7.jpg',
+      title: 'La vielle jog',
+      date: '07 juillet 2025',
+      caption: 'Cette pauvre scooter qui était déjà trop rouillé mais qu\'on voulait encore conduire, et je ne voulait pas la counduire qu\'avec toi',
     },
     {
       id: 8,
-      image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
-      title: 'La veille d\'une nouvelle aventure',
-      date: 'Septembre 2023',
-      caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
+      image: '../public/images/8.jpg',
+      title: 'Chercher une aiguille dans une botte de foin',
+      date: '14 juillet 2025',
+      caption: 'On avait chercher une chose qu\'on n\'aurait pas peu trouvé, et t\'était encore avec moi, méme fâchée, encore une preuve d\'amour de ta part',
     },
     {
       id: 9,
-      image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
-      title: 'La veille d\'une nouvelle aventure',
-      date: 'Septembre 2023',
-      caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
+      image: '../public/images/9.jpg',
+      title: 'On ne savait plus quoi faire',
+      date: '20 août 2025',
+      caption: 'Le moment où on cherchait notre stage, on n\'avait plus d\'espoir mais Dieu était toujours avec nous',
     },
     {
       id: 10,
-      image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
-      title: 'La veille d\'une nouvelle aventure',
-      date: 'Septembre 2023',
-      caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
+      image: '../public/images/10.jpg',
+      title: 'On était à bou',
+      date: '27 novembre 2025',
+      caption: 'Une autre moment où la vie nous a mis à une épreuve, c\'était dure, mais j\'avais aprécié ces moments là, j\'ai adoré.',
     },
     {
       id: 11,
-      image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
-      title: 'La veille d\'une nouvelle aventure',
-      date: 'Septembre 2023',
-      caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
+      image: '../public/images/11.jpg',
+      title: 'Une autre aventure inoubliable',
+      date: '09 décembre 2025',
+      caption: 'C\'est sûr, c\'était magnifique, j\'ai adoré être avec toi sur cette aventure merveilleuse',
     },
     {
       id: 12,
-      image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
-      title: 'La veille d\'une nouvelle aventure',
-      date: '26 Juillet 2023',
-      caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
+      image: '../public/images/12.jpg',
+      title: 'La plus récente de notre aventure,
+      date: '05 février 2025',
+      caption: 'C\'était un fail, c\'est vrai, mais on le refera un jour pour que ce soit meilleure',
     }
   ];
 
@@ -238,7 +238,7 @@ export default function ValentineGallery() {
           fontStyle: 'italic',
           fontWeight: 300
         }}>
-          Chaque moment avec toi est précieux
+          J'ai toujours aimé d'être à tes côtés
         </p>
         <div className="flex justify-center items-center gap-2 text-pink-600">
           <Heart size={20} fill="currentColor" />
@@ -375,7 +375,7 @@ export default function ValentineGallery() {
                   </p>
                   <div className="mt-8 pt-8 border-t border-rose-200">
                     <p className="text-sm text-rose-600" style={{ fontFamily: '"Cormorant Garamond", serif' }}>
-                      Avec tout mon amour ❤️
+                      Je t'aime pour toujours mon amour ❤️
                     </p>
                   </div>
                 </div>
@@ -397,12 +397,12 @@ export default function ValentineGallery() {
             fontFamily: '"Cormorant Garamond", serif',
             fontStyle: 'italic'
           }}>
-            Chaque photo raconte notre histoire
+            Chaque photo raconte notre histoire, mais il y des histoires qu'on n'a pas eu le temos d'imortaliser
           </p>
           <p className="text-rose-700 text-lg" style={{ fontFamily: '"Cormorant Garamond", serif' }}>
-            Et je suis tellement reconnaissant pour chaque moment passé avec toi.
+            Tout ça pour dire que je suis tellement reconnaissant pour chaque moment passé avec toi et que je t'aime de tout mon coeur💗
             <br />
-            Joyeuse Saint-Valentin, mon amour ! 💕
+            Joyeuse Saint-Valentin, ma vie ! 💕
           </p>
         </div>
       </div>
