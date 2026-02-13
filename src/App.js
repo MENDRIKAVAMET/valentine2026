@@ -19,14 +19,14 @@ export default function ValentineGallery() {
       image: '/images/2.jpg',
       title: 'La première je t\'aime que j\'ai reçu de ta part',
       date: 'Novembre 2021',
-      caption: 'Là où notre vie a commencé ensemble... je ne pourrais jamais l\'oublié la palpitation que j\'ai ressenti ce jours là',
+      caption: 'Là où notre vie a commencé... je ne pourrais jamais oublié la palpitation que j\'ai ressenti ce jours là',
     },
     {
       id: 3,
       image: '/images/3.jpg',
       title: 'Une épreuve très dure',
       date: '21 février 2022',
-      caption: 'Je ne sais pas toi mais quand je vois cette photo, toutes les mauvaises choses que je t\'ai fait me revienne, mais tu es encore là, et je tiens beaucoup à te remercier.',
+      caption: 'Pour moi, cette photo me montres à quels points on a traversé des moments dures, mais on est toujours là, grâce à toi.',
     },
     {
       id: 4,
@@ -38,9 +38,9 @@ export default function ValentineGallery() {
     {
       id: 5,
       image: '/images/5.JPG',
-      title: 'première feux d\'artifices',
+      title: 'Première feux d\'artifices',
       date: '25 juin 2023',
-      caption: 'Notre permière fête de l\'indépendence ensemble, ça m\'a beaucoup marqué.',
+      caption: 'C\'était la première fois qu\'on allait à une foule ensemble, ça m\'a beaucoup marqué et c\'était vraiment merveilleuse.',
     },
     {
       id: 6,
@@ -61,7 +61,7 @@ export default function ValentineGallery() {
       image: '/images/8.jpg',
       title: 'Chercher une aiguille dans une botte de foin',
       date: '14 juillet 2025',
-      caption: 'On avait chercher une chose qu\'on n\'aurait pas peu trouvé, et t\'était encore avec moi, méme fâchée, encore une preuve d\'amour de ta part',
+      caption: 'On avait chercher une chose qu\'on n\'aurait jamais pue trouvé, et t\'était encore avec moi, méme fâchée, encore une preuve d\'amour de ta part',
     },
     {
       id: 9,
@@ -238,7 +238,7 @@ export default function ValentineGallery() {
           fontStyle: 'italic',
           fontWeight: 300
         }}>
-          J'ai toujours aimé d'être à tes côtés
+          J'ai toujours aimé 'être à tes côtés et je veux passer les restes de ma vie avec toi.
         </p>
         <div className="flex justify-center items-center gap-2 text-pink-600">
           <Heart size={20} fill="currentColor" />
@@ -397,7 +397,7 @@ export default function ValentineGallery() {
             fontFamily: '"Cormorant Garamond", serif',
             fontStyle: 'italic'
           }}>
-            Chaque photo raconte notre histoire, mais il y des histoires qu'on n'a pas eu le temos d'imortaliser
+            Chaque photo raconte notre histoire, mais il y encore beaucoup de moments qu'on n'a pas pue imortaliser.
           </p>
           <p className="text-rose-700 text-lg" style={{ fontFamily: '"Cormorant Garamond", serif' }}>
             Tout ça pour dire que je suis tellement reconnaissant pour chaque moment passé avec toi et que je t'aime de tout mon coeur💗
