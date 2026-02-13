@@ -87,7 +87,7 @@ export default function ValentineGallery() {
     {
       id: 12,
       image: '../public/images/12.jpg',
-      title: 'La plus récente de notre aventure,
+      title: 'La plus récente de notre aventure',
       date: '05 février 2025',
       caption: 'C\'était un fail, c\'est vrai, mais on le refera un jour pour que ce soit meilleure',
     }
