@@ -326,7 +326,7 @@ export default function ValentineGallery() {
             {/* Close button */}
             <button
               onClick={closePhoto}
-              className="absolute -top-4 right-0 bg-black/50 rounded-full text-white hover:text-rose-300 bg-black/70 transition-colors"
+              className="absolute -top-0 right-4 bg-black/50 rounded-full text-white hover:text-rose-300 bg-black/ transition-colors"
             >
               <X size={32} />
             </button>
