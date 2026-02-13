@@ -48,42 +48,42 @@ export default function ValentineGallery() {
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
-    }
+    },
     {
       id: 7,
       image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
-    }
+    },
     {
       id: 8,
       image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
-    }
+    },
     {
       id: 9,
       image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
-    }
+    },
     {
       id: 10,
       image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
-    }
+    },
     {
       id: 11,
       image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
       title: 'La veille d\'une nouvelle aventure',
       date: 'Septembre 2023',
       caption: 'On était à Mahatamana, avant que je parte pour trouver notre nouvel foyer à Fianarantsoa',
-    }
+    },
     {
       id: 12,
       image: 'https://photos.google.com/photo/AF1QipPairKU_hZSyWuOQmQbLi4vPsmQv2KiA-kbFsG9',
