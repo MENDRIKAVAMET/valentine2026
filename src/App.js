@@ -10,7 +10,7 @@ export default function ValentineGallery() {
     {
       id: 1,
       image: '/images/1.jpg',
-      title: 'Ta première anniversaire avec moi',
+      title: 'Ton premièr anniversaire avec moi',
       date: 'Novembre 2021',
       caption: 'Là où tout a commencé...',
     },
@@ -19,14 +19,14 @@ export default function ValentineGallery() {
       image: '/images/2.jpg',
       title: 'La première je t\'aime que j\'ai reçu de ta part',
       date: 'Novembre 2021',
-      caption: 'Là où notre vie a commencé... je ne pourrais jamais oublié la palpitation que j\'ai ressenti ce jours là',
+      caption: 'Là où notre vie a commencé... je ne pourrais jamais oublié la palpitation que j\'ai ressenti ce jour là',
     },
     {
       id: 3,
       image: '/images/3.jpg',
       title: 'Une épreuve très dure',
       date: '21 février 2022',
-      caption: 'Pour moi, cette photo me montres à quels points on a traversé des moments dures, mais on est toujours là, grâce à toi.',
+      caption: 'Pour moi, cette photo montre à quel point on a traversé des moments durs, mais on est toujours là, grâce à toi.',
     },
     {
       id: 4,
@@ -38,9 +38,9 @@ export default function ValentineGallery() {
     {
       id: 5,
       image: '/images/5.JPG',
-      title: 'Première feux d\'artifices',
+      title: 'Première feux d\'artifice',
       date: '25 juin 2023',
-      caption: 'C\'était la première fois qu\'on allait à une foule ensemble, ça m\'a beaucoup marqué et c\'était vraiment merveilleuse.',
+      caption: 'C\'était la première fois qu\'on allait à une foule ensemble, ça m\'a beaucoup marqué et c\'était vraiment merveilleux.',
     },
     {
       id: 6,
@@ -52,44 +52,44 @@ export default function ValentineGallery() {
     {
       id: 7,
       image: '/images/7.jpg',
-      title: 'La vielle jog',
+      title: 'La vieille jog',
       date: '07 juillet 2025',
-      caption: 'Cette pauvre scooter qui était déjà trop rouillé mais qu\'on voulait encore conduire, et je ne voulait pas la counduire qu\'avec toi',
+      caption: 'Cette pauvre scooter qui était déjà trop rouillé mais qu\'on voulait encore conduire, et je ne voulais la conduire qu\'avec toi',
     },
     {
       id: 8,
       image: '/images/8.jpg',
       title: 'Chercher une aiguille dans une botte de foin',
       date: '14 juillet 2025',
-      caption: 'On avait chercher une chose qu\'on n\'aurait jamais pue trouvé, et t\'était encore avec moi, méme fâchée, encore une preuve d\'amour de ta part',
+      caption: 'Je devais chercher quelque chose que je n\'aurait jamais pu trouvé, mais t\'étais encore avec moi, même fâchée, encore une preuve d\'amour de ta part',
     },
     {
       id: 9,
       image: '/images/9.jpg',
       title: 'On ne savait plus quoi faire',
       date: '20 août 2025',
-      caption: 'Le moment où on cherchait notre stage, on n\'avait plus d\'espoir mais Dieu était toujours avec nous',
+      caption: 'Le moment où on cherchait une stage, on n\'avait plus d\'espoir, mais on était ensemble, et c\'est là que Dien nous a donné une chance',
     },
     {
       id: 10,
       image: '/images/10.jpg',
       title: 'On était à bou',
       date: '27 novembre 2025',
-      caption: 'Une autre moment où la vie nous a mis à une épreuve, c\'était dure, mais j\'avais aprécié ces moments là, j\'ai adoré.',
+      caption: 'Un autre moment où la vie nous a mis à l\'épreuve, c\'était dur mais on a réussi. J\'avais apprécié ces moments là avec toi, ça m\'a beaucoup marqué.',
     },
     {
       id: 11,
       image: '/images/11.jpg',
       title: 'Une autre aventure inoubliable',
       date: '09 décembre 2025',
-      caption: 'C\'est sûr, c\'était magnifique, j\'ai adoré être avec toi sur cette aventure merveilleuse',
+      caption: 'C\'est sûr, c\'était magnifique, j\'ai adoré être avec toi lors de cette aventure merveilleuse',
     },
     {
       id: 12,
       image: '/images/12.jpg',
       title: 'La plus récente de notre aventure',
       date: '05 février 2025',
-      caption: 'C\'était un fail, c\'est vrai, mais on le refera un jour pour que ce soit meilleure',
+      caption: 'C\'était un échec, c\'est vrai, mais on le refera un jour pour que ce soit meilleur',
     }
   ];
 
@@ -238,7 +238,7 @@ export default function ValentineGallery() {
           fontStyle: 'italic',
           fontWeight: 300
         }}>
-          J'ai toujours aimé 'être à tes côtés et je veux passer les restes de ma vie avec toi.
+          J'ai toujours aimé être à tes côtés et je veux passer le reste de ma vie avec toi.
         </p>
         <div className="flex justify-center items-center gap-2 text-pink-600">
           <Heart size={20} fill="currentColor" />
@@ -397,7 +397,7 @@ export default function ValentineGallery() {
             fontFamily: '"Cormorant Garamond", serif',
             fontStyle: 'italic'
           }}>
-            Chaque photo raconte notre histoire, mais il y encore beaucoup de moments qu'on n'a pas pue imortaliser.
+            Chaque photo raconte notre histoire, mais il y encore beaucoup de moments qu'on n'a pas pu immortaliser.
           </p>
           <p className="text-rose-700 text-lg" style={{ fontFamily: '"Cormorant Garamond", serif' }}>
             Tout ça pour dire que je suis tellement reconnaissant pour chaque moment passé avec toi et que je t'aime de tout mon coeur💗
